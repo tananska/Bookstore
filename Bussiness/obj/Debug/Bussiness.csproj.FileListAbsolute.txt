@@ -1,0 +1,27 @@
+C:\Users\Iva\Desktop\visual studio\Bookstore Shop\Bussiness\bin\Debug\Bussiness.dll.config
+C:\Users\Iva\Desktop\visual studio\Bookstore Shop\Bussiness\bin\Debug\Bussiness.dll
+C:\Users\Iva\Desktop\visual studio\Bookstore Shop\Bussiness\bin\Debug\Bussiness.pdb
+C:\Users\Iva\Desktop\visual studio\Bookstore Shop\Bussiness\bin\Debug\Data.dll
+C:\Users\Iva\Desktop\visual studio\Bookstore Shop\Bussiness\bin\Debug\EntityFramework.dll
+C:\Users\Iva\Desktop\visual studio\Bookstore Shop\Bussiness\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Iva\Desktop\visual studio\Bookstore Shop\Bussiness\bin\Debug\Data.pdb
+C:\Users\Iva\Desktop\visual studio\Bookstore Shop\Bussiness\bin\Debug\EntityFramework.xml
+C:\Users\Iva\Desktop\visual studio\Bookstore Shop\Bussiness\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Iva\Desktop\visual studio\Bookstore Shop\Bussiness\obj\Debug\Bussiness.csprojResolveAssemblyReference.cache
+C:\Users\Iva\Desktop\visual studio\Bookstore Shop\Bussiness\obj\Debug\Bussiness.dll
+C:\Users\Iva\Desktop\visual studio\Bookstore Shop\Bussiness\obj\Debug\Bussiness.pdb
+C:\Users\Ива\OneDrive\Документи\visual studio\visual studio\Bookstore Shop\Bussiness\bin\Debug\Bussiness.dll.config
+C:\Users\Ива\OneDrive\Документи\visual studio\visual studio\Bookstore Shop\Bussiness\bin\Debug\Bussiness.dll
+C:\Users\Ива\OneDrive\Документи\visual studio\visual studio\Bookstore Shop\Bussiness\bin\Debug\Bussiness.pdb
+C:\Users\Ива\OneDrive\Документи\visual studio\visual studio\Bookstore Shop\Bussiness\bin\Debug\Data.dll
+C:\Users\Ива\OneDrive\Документи\visual studio\visual studio\Bookstore Shop\Bussiness\bin\Debug\EntityFramework.dll
+C:\Users\Ива\OneDrive\Документи\visual studio\visual studio\Bookstore Shop\Bussiness\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Ива\OneDrive\Документи\visual studio\visual studio\Bookstore Shop\Bussiness\bin\Debug\Data.pdb
+C:\Users\Ива\OneDrive\Документи\visual studio\visual studio\Bookstore Shop\Bussiness\bin\Debug\Data.dll.config
+C:\Users\Ива\OneDrive\Документи\visual studio\visual studio\Bookstore Shop\Bussiness\bin\Debug\EntityFramework.xml
+C:\Users\Ива\OneDrive\Документи\visual studio\visual studio\Bookstore Shop\Bussiness\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Ива\OneDrive\Документи\visual studio\visual studio\Bookstore Shop\Bussiness\obj\Debug\Bussiness.csproj.AssemblyReference.cache
+C:\Users\Ива\OneDrive\Документи\visual studio\visual studio\Bookstore Shop\Bussiness\obj\Debug\Bussiness.csproj.CoreCompileInputs.cache
+C:\Users\Ива\OneDrive\Документи\visual studio\visual studio\Bookstore Shop\Bussiness\obj\Debug\Bussiness.csproj.CopyComplete
+C:\Users\Ива\OneDrive\Документи\visual studio\visual studio\Bookstore Shop\Bussiness\obj\Debug\Bussiness.dll
+C:\Users\Ива\OneDrive\Документи\visual studio\visual studio\Bookstore Shop\Bussiness\obj\Debug\Bussiness.pdb

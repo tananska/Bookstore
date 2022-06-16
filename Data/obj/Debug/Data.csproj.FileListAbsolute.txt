@@ -1,0 +1,28 @@
+C:\Users\Iva\Desktop\visual studio\Bookstore Shop\Data\obj\Debug\Data.csprojResolveAssemblyReference.cache
+C:\Users\Iva\Desktop\visual studio\Bookstore Shop\Data\bin\Debug\Data.dll.config
+C:\Users\Iva\Desktop\visual studio\Bookstore Shop\Data\bin\Debug\Data.dll
+C:\Users\Iva\Desktop\visual studio\Bookstore Shop\Data\bin\Debug\Data.pdb
+C:\Users\Iva\Desktop\visual studio\Bookstore Shop\Data\bin\Debug\EntityFramework.dll
+C:\Users\Iva\Desktop\visual studio\Bookstore Shop\Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Iva\Desktop\visual studio\Bookstore Shop\Data\bin\Debug\EntityFramework.xml
+C:\Users\Iva\Desktop\visual studio\Bookstore Shop\Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Iva\Desktop\visual studio\Bookstore Shop\Data\obj\Debug\Data.dll
+C:\Users\Iva\Desktop\visual studio\Bookstore Shop\Data\obj\Debug\Data.pdb
+C:\Users\Iva\Desktop\visual studio\Bookstore Shop\Data\obj\Debug\Data.Migrations.Root1.resources
+C:\Users\Iva\Desktop\visual studio\Bookstore Shop\Data\obj\Debug\Data.csproj.GenerateResource.Cache
+C:\Users\Iva\Desktop\visual studio\Bookstore Shop\Data\obj\Debug\Data.Migrations.Root2.resources
+C:\Users\Ива\OneDrive\Документи\visual studio\visual studio\Bookstore Shop\Data\bin\Debug\Data.dll.config
+C:\Users\Ива\OneDrive\Документи\visual studio\visual studio\Bookstore Shop\Data\bin\Debug\Data.dll
+C:\Users\Ива\OneDrive\Документи\visual studio\visual studio\Bookstore Shop\Data\bin\Debug\Data.pdb
+C:\Users\Ива\OneDrive\Документи\visual studio\visual studio\Bookstore Shop\Data\bin\Debug\EntityFramework.dll
+C:\Users\Ива\OneDrive\Документи\visual studio\visual studio\Bookstore Shop\Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Ива\OneDrive\Документи\visual studio\visual studio\Bookstore Shop\Data\bin\Debug\EntityFramework.xml
+C:\Users\Ива\OneDrive\Документи\visual studio\visual studio\Bookstore Shop\Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Ива\OneDrive\Документи\visual studio\visual studio\Bookstore Shop\Data\obj\Debug\Data.csproj.AssemblyReference.cache
+C:\Users\Ива\OneDrive\Документи\visual studio\visual studio\Bookstore Shop\Data\obj\Debug\Data.Migrations.Root1.resources
+C:\Users\Ива\OneDrive\Документи\visual studio\visual studio\Bookstore Shop\Data\obj\Debug\Data.Migrations.Root2.resources
+C:\Users\Ива\OneDrive\Документи\visual studio\visual studio\Bookstore Shop\Data\obj\Debug\Data.csproj.GenerateResource.cache
+C:\Users\Ива\OneDrive\Документи\visual studio\visual studio\Bookstore Shop\Data\obj\Debug\Data.csproj.CoreCompileInputs.cache
+C:\Users\Ива\OneDrive\Документи\visual studio\visual studio\Bookstore Shop\Data\obj\Debug\Data.csproj.CopyComplete
+C:\Users\Ива\OneDrive\Документи\visual studio\visual studio\Bookstore Shop\Data\obj\Debug\Data.dll
+C:\Users\Ива\OneDrive\Документи\visual studio\visual studio\Bookstore Shop\Data\obj\Debug\Data.pdb
